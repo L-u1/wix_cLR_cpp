@@ -1,0 +1,10 @@
+using namespace System;
+using namespace System::Diagnostics;
+using namespace System::Collections;
+using namespace WixSharp;
+using namespace WixSharp::CommonTasks;
+using namespace WixSharp::Forms;
+using namespace WixToolset::Dtf::WindowsInstaller;
+using namespace System::Linq;
+using namespace Microsoft::Win32;
+using namespace WixSharp;
